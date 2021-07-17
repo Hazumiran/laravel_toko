@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Link Google Drive SQL+Full Project
+## Link Google Drive database SQL + Full Project
 https://drive.google.com/drive/folders/11NifOROgbcxc1DkcVw0vmOQn61Xngj8t?usp=sharing
 
 
